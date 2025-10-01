@@ -1,4 +1,3 @@
-## Hi there 👋
 <!-- Encabezado con un toque visual y saludo -->
 
 <h1 align="center">
@@ -27,13 +26,13 @@ Un apasionado desarrollador de software en formación, con un enfoque en la crea
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </p>
-<a href="https://www.google.com/search?q=https://github.com/TheCarlosS5/taller-el-cientifico" target="_blank">
+<a href="https://www.google.com/search?q=https://github.com/TheCarlosS5/TALLER_EL_CIENTIFICO" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Ver_Repositorio-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite">
 </a>
 </td>
 <td width="30%" align="center">
-<!-- Aquí puedes poner un GIF o imagen de tu proyecto -->
-<img src="https://www.google.com/url?sa=E&source=gmail&q=https://i.imgur.com/your-project-image.gif" alt="Demo de Taller El Científico" width="100%">
+<!-- Reemplaza este enlace con un GIF o imagen de tu proyecto -->
+<img src="https://www.google.com/search?q=https://i.imgur.com/your-project-image.gif" alt="Demo de Taller El Científico" width="100%">
 <em><small>Asegúrate de subir un GIF y reemplazar este enlace.</small></em>
 </td>
 </tr>
