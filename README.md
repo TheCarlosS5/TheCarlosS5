@@ -17,7 +17,7 @@ Soy estudiante del **Tecnólogo en Análisis y Desarrollo de Software (ADSO)** e
 
 - 🎓 Actualmente cursando **ADSO en el SENA** — Neiva, Huila
 - 🔬 Desarrollé **Taller El Científico** — sistema web para una empresa real
-- 🖨️ Competí con **THE PRINT** — e-commerce en 5 horas · 7° lugar concurso SENA
+- 🖨️ Competí con **THE PRINT** — e-commerce en 5 horas, no tenia muy bonito diseño pero aun asi quede con buen puntaje
 - 🐍 Python aprendido de forma autónoma (Edutin Academy)
 - 🤖 Aprendiendo a usar IA como herramienta de desarrollo (MoureDev)
 - 🚀 Meta: primer empleo como desarrollador web
