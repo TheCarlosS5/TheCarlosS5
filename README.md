@@ -2,56 +2,93 @@
 
 <p align="center">
   <strong>Desarrollador de software en formación</strong><br>
-  Web · Android · Aplicaciones de escritorio<br>
+  Web · Android · Sistemas y aplicaciones de escritorio<br>
   Neiva, Huila, Colombia
 </p>
 
 <p align="center">
+  <a href="https://github.com/TheCarlosS5/ii-windows">ii-windows</a> ·
   <a href="https://github.com/TheCarlosS5/KuraStream">KuraStream</a> ·
-  <a href="https://github.com/TheCarlosS5/cuchuco-pixel-studio">Cuchuco Pixel Studio</a> ·
-  <a href="https://github.com/TheCarlosS5/openvibe">OpenVibe</a>
+  <a href="https://github.com/TheCarlosS5/quickshell-windows">Quickshell for Windows</a> ·
+  <a href="https://github.com/TheCarlosS5/cuchuco-pixel-studio">Cuchuco Pixel Studio</a>
 </p>
 
 ## Sobre mí
 
-Estudio el **Tecnólogo en Análisis y Desarrollo de Software (ADSO)** en el **SENA Regional Huila**. Comencé con la lógica de programación y proyectos web en PHP; hoy también exploro el desarrollo nativo, las interfaces de escritorio y las aplicaciones multimedia.
+Estudio el **Tecnólogo en Análisis y Desarrollo de Software (ADSO)** en el **SENA Regional Huila**. Comencé con lógica de programación y desarrollo web; hoy me interesa especialmente crear aplicaciones multimedia, herramientas con IA e interfaces de escritorio.
 
-Me gusta crear herramientas que realmente pueda utilizar, cuidar los detalles de la interfaz y mejorar el código a medida que aprendo. No todos mis proyectos están terminados: varios siguen evolucionando con cada versión.
+Me gusta entender cómo funcionan las cosas, experimentar con nuevas tecnologías y construir software que realmente quiera utilizar. Mis proyectos siguen evolucionando: prefiero aprender, probar y mejorar antes que darlos por terminados demasiado pronto.
 
-## En qué estoy trabajando
+## Proyectos destacados
 
-- **[KuraStream](https://github.com/TheCarlosS5/KuraStream):** plataforma de streaming autohospedada para colecciones personales de anime y películas. Incluye reproductor web, cliente nativo Android, subtítulos y reproducción sincronizada mediante Watch Party.
-- **Illogical Impulse para Windows:** port experimental de la interfaz de end-4 mediante Quickshell y capas de compatibilidad. El dock, los paneles, los controles y el overview ya funcionan; actualmente trabajo en mejorar la fluidez y el rendimiento. *En desarrollo local; todavía no está publicado.*
+### [ii-windows — Illogical Impulse para Windows](https://github.com/TheCarlosS5/ii-windows)
+
+Port **en desarrollo activo** de [Illogical Impulse, de end-4](https://github.com/end-4/dots-hyprland), a Windows 11. Ejecuta la interfaz QML original adaptada mediante un backend nativo y un fork de Quickshell para Windows.
+
+- Barra de sistema, dock, lanzador, overview con miniaturas de ventanas y escritorios virtuales.
+- Paneles, notificaciones, controles multimedia, widgets y colores dinámicos Material 3.
+- Integración con APIs de Windows y mecanismos de rescate para restaurar el escritorio.
+
+**Tecnologías:** C++, Qt / QML, Quickshell, Win32, PowerShell.  
+[Repositorio](https://github.com/TheCarlosS5/ii-windows) · [Progreso y funciones pendientes](https://github.com/TheCarlosS5/ii-windows/blob/main/PROGRESS.md)
+
+### [KuraStream — Streaming multimedia autohospedado](https://github.com/TheCarlosS5/KuraStream)
+
+Plataforma para organizar y reproducir colecciones personales de anime y películas desde un servidor propio. Combina un cliente web con una **aplicación nativa para Android**, que continúa en desarrollo.
+
+- Reproductor multimedia con gestión de audio, subtítulos y transcodificación mediante FFmpeg.
+- **Watch Party** con sincronización de reproducción mediante Server-Sent Events.
+- Catálogo, perfiles, administración y enriquecimiento de metadatos.
+
+**Tecnologías:** PHP, JavaScript, Kotlin, Jetpack Compose, MySQL / MariaDB, FFmpeg.  
+[Explorar KuraStream](https://github.com/TheCarlosS5/KuraStream)
+
+### [Quickshell for Windows — Fork y backend nativo](https://github.com/TheCarlosS5/quickshell-windows)
+
+Fork de [Quickshell](https://quickshell.org/) enfocado en llevar su infraestructura a Windows. Es la base técnica del port de Illogical Impulse e incorpora adaptaciones para paneles, ventanas, miniaturas y servicios del sistema.
+
+**Tecnologías:** C++, Qt / QML, Win32.  
+[Ver el fork](https://github.com/TheCarlosS5/quickshell-windows)
+
+### [Cuchuco Pixel Studio — Pixel art y agentes de IA](https://github.com/TheCarlosS5/cuchuco-pixel-studio)
+
+Entorno creativo en desarrollo para diseñar y editar pixel art con herramientas interactivas y asistencia de agentes de inteligencia artificial.
+
+- Lienzo editable, animaciones por fotogramas y exportación de recursos.
+- Integración con modelos locales mediante Ollama y con Google Gemini.
+- Validación de resultados y ejecución de herramientas dentro del flujo creativo.
+
+**Tecnologías:** TypeScript, React, Node.js, herramientas de IA.  
+[Explorar Cuchuco Pixel Studio](https://github.com/TheCarlosS5/cuchuco-pixel-studio)
 
 ## Otros proyectos
 
-| Proyecto | Descripción |
+| Proyecto | Qué puedes encontrar |
 | --- | --- |
-| **[Cuchuco Pixel Studio](https://github.com/TheCarlosS5/cuchuco-pixel-studio)** | Herramienta creativa de pixel art con edición interactiva e integración de modelos de IA. |
-| **[OpenVibe](https://github.com/TheCarlosS5/openvibe)** | Proyecto de streaming musical centrado en la experiencia de usuario y las animaciones. |
-| **[MERCANEX](https://github.com/TheCarlosS5/informe_tecnico_mercanex)** | Proyecto formativo de marketplace de productos digitales, desarrollado en equipo en el SENA. |
-| **[Taller El Científico](https://github.com/TheCarlosS5/Taller-el-Cientifico)** | Sistema web desarrollado como parte de mi experiencia de formación. |
-| **[THE PRINT](https://github.com/TheCarlosS5/the_print)** | Proyecto de comercio electrónico realizado durante una competencia de desarrollo contrarreloj. |
+| [OpenVibe](https://github.com/TheCarlosS5/openvibe) | Plataforma de streaming musical con reproductor de audio/video, letras y animaciones de interfaz. |
+| [MERCANEX — Informe técnico](https://github.com/TheCarlosS5/informe_tecnico_mercanex) | Presentación interactiva de arquitectura, requisitos y evidencias de un proyecto formativo desarrollado en equipo. |
+| [The Code Within](https://github.com/TheCarlosS5/my-story) | Libro digital interactivo que combina desarrollo web, narrativa, animaciones y audio. |
+| [Taller El Científico](https://github.com/TheCarlosS5/Taller-el-Cientifico) | Sistema web de solicitudes y seguimiento de cotizaciones con PHP y MySQL. |
 
 ## Tecnologías y herramientas
 
-Estas son algunas de las tecnologías con las que he trabajado o que estoy aprendiendo a utilizar en mis proyectos.
+Tecnologías con las que he trabajado o que continúo aprendiendo en mis proyectos.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="HTML5" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="CSS3" title="CSS3" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" alt="C++" title="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="32" alt="Qt y QML" title="Qt y QML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="32" alt="Kotlin" title="Kotlin" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="TypeScript" title="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32" alt="PHP" title="PHP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="Java" title="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="32" alt="Kotlin" title="Kotlin" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="32" alt="Qt / QML" title="Qt / QML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React" title="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="MySQL" title="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="PostgreSQL" title="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="Docker" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="Linux" title="Linux" />
-</div>
+</p>
 
 ## Actividad en GitHub
 
