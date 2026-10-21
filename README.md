@@ -1,9 +1,11 @@
-<h1 align="center">Hola, soy Carlos Stiven 👋</h1>
+<h1 align="center">Hola, soy Carlos Gutierrez :D</h1>
 
 <p align="center">
   <strong>Desarrollador de software en formación</strong><br>
-  Web · Android · Sistemas y aplicaciones de escritorio<br>
+  Web · Android · y un poquito de Sistemas y aplicaciones de escritorio<br>
   Neiva, Huila, Colombia
+
+  Uso herramientas de desarrollo con IA como lo son Claude Code, Antigravity CLI y Codex
 </p>
 
 <p align="center">
