@@ -5,7 +5,7 @@
   Web · Android · y un poquito de Sistemas y aplicaciones de escritorio<br>
   Neiva, Huila, Colombia<br>
 
-  Uso herramientas de desarrollo con IA como lo son Claude Code, Antigravity CLI y Codex
+  <p align="center">Uso herramientas de desarrollo con IA como lo son Claude Code, Antigravity CLI y Codex</p>
 </p>
 
 <p align="center">
@@ -50,26 +50,6 @@ Fork de [Quickshell](https://quickshell.org/) enfocado en llevar su infraestruct
 
 **Tecnologías:** C++, Qt / QML, Win32.  
 [Ver el fork](https://github.com/TheCarlosS5/quickshell-windows)
-
-### [Cuchuco Pixel Studio — Pixel art y agentes de IA](https://github.com/TheCarlosS5/cuchuco-pixel-studio)
-
-Entorno creativo en desarrollo para diseñar y editar pixel art con herramientas interactivas y asistencia de agentes de inteligencia artificial.
-
-- Lienzo editable, animaciones por fotogramas y exportación de recursos.
-- Integración con modelos locales mediante Ollama y con Google Gemini.
-- Validación de resultados y ejecución de herramientas dentro del flujo creativo.
-
-**Tecnologías:** TypeScript, React, Node.js, herramientas de IA.  
-[Explorar Cuchuco Pixel Studio](https://github.com/TheCarlosS5/cuchuco-pixel-studio)
-
-## Otros proyectos
-
-| Proyecto | Qué puedes encontrar |
-| --- | --- |
-| [OpenVibe](https://github.com/TheCarlosS5/openvibe) | Plataforma de streaming musical con reproductor de audio/video, letras y animaciones de interfaz. |
-| [MERCANEX — Informe técnico](https://github.com/TheCarlosS5/informe_tecnico_mercanex) | Presentación interactiva de arquitectura, requisitos y evidencias de un proyecto formativo desarrollado en equipo. |
-| [The Code Within](https://github.com/TheCarlosS5/my-story) | Libro digital interactivo que combina desarrollo web, narrativa, animaciones y audio. |
-| [Taller El Científico](https://github.com/TheCarlosS5/Taller-el-Cientifico) | Sistema web de solicitudes y seguimiento de cotizaciones con PHP y MySQL. |
 
 ## Tecnologías y herramientas
 
