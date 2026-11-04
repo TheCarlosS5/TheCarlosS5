@@ -1,9 +1,9 @@
-<h1 align="center">Hola, soy Carlos Gutierrez :D</h1>
+<h1 align="center">Hola, soy Carlos :D</h1>
 
 <p align="center">
   <strong>Desarrollador de software en formación</strong><br>
   Web · Android · y un poquito de Sistemas y aplicaciones de escritorio<br>
-  Neiva, Huila, Colombia
+  Neiva, Huila, Colombia<br>
 
   Uso herramientas de desarrollo con IA como lo son Claude Code, Antigravity CLI y Codex
 </p>
@@ -11,8 +11,7 @@
 <p align="center">
   <a href="https://github.com/TheCarlosS5/ii-windows">ii-windows</a> ·
   <a href="https://github.com/TheCarlosS5/KuraStream">KuraStream</a> ·
-  <a href="https://github.com/TheCarlosS5/quickshell-windows">Quickshell for Windows</a> ·
-  <a href="https://github.com/TheCarlosS5/cuchuco-pixel-studio">Cuchuco Pixel Studio</a>
+  <a href="https://github.com/TheCarlosS5/quickshell-windows">Quickshell for Windows</a>
 </p>
 
 ## Sobre mí
